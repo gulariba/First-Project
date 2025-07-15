@@ -12,7 +12,7 @@ export default function Navbar() {
   const navLinks = [
     { name: "Collections", href: "/collections" },
     { name: "Trending", href: "/trending" },
-    { name: "About", href: "/about" },
+    { name: "About", href: "/About" },
     { name: "Contact", href: "/contact" },
   ];
 
