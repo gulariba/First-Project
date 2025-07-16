@@ -10,7 +10,7 @@ const slides = [
     id: 1,
     title: "Luxury That Embraces You",
     subtitle: "Elegant undergarments crafted with precision & love for the modern woman.",
-    image: "/bg4.jpg",
+    image: "/bg2.jpg",
     btnLink: "/collections",
     btnText: "Discover Now",
   },
