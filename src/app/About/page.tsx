@@ -20,7 +20,7 @@ export default function AboutUs() {
         {/* Background Section */}
         <div className="relative w-full h-[700px] overflow-hidden">
           <Image
-            src="/about bg.jpeg"
+            src="/images/about bg.jpeg"
             alt="About Splendies"
             fill
             priority
