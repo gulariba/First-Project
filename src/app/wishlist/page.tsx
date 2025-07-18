@@ -5,7 +5,12 @@ import Image from "next/image";
 import { Heart, Trash2 } from "lucide-react";
 
 export default function WishlistPage() {
-  const wishlistItems = []; // 👉 Add your wishlist state or data here
+  const wishlistItems: {
+    id: number;
+    name: string;
+    price: number;
+    image: string;
+  }[] = []; // ✅ Properly typed
 
   return (
     <section className="min-h-screen bg-black text-white py-16 px-4">
