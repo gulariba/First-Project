@@ -4,12 +4,12 @@ import Image from "next/image";
 import Link from "next/link";
 
 const collections = [
-  { name: "Bras", slug: "bras", image: "/images/bra.jpg" },
-  { name: "Panties", slug: "panties", image: "/images/panty.jpg" },
-  { name: "Lingerie", slug: "lingerie", image: "/images/night wear.jpg" },
-  { name: "Shapewear", slug: "shapewear", image: "/images/categoryshapewear.jpg" },
-  { name: "Bridal Wear", slug: "bridalwear", image: "/images/bridal.jpg" },
-  { name: "BDSM Wear", slug: "bdsmwear", image: "/images/bg3.jpg" },
+  { name: "Bras", slug: "bras", image: "/bra.jpg" },
+  { name: "Panties", slug: "panties", image: "/panty.jpg" },
+  { name: "Lingerie", slug: "lingerie", image: "/night wear.jpg" },
+  { name: "Shapewear", slug: "shapewear", image: "/categoryshapewear.jpg" },
+  { name: "Bridal Wear", slug: "bridalwear", image: "/bridal.jpg" },
+  { name: "BDSM Wear", slug: "bdsmwear", image: "/bg3.jpg" },
 ];
 
 export default function CollectionsPage() {
